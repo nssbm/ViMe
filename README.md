@@ -1,2 +1,1 @@
-ViMe
-====
+ViME - 'Vi'sual 'Me'eting is an open source project to bring visual meeting techniques on the computer. This project based on Pahvi (https://github.com/opinsys/pahvi).
